@@ -1,6 +1,12 @@
 {
-    "accountSn": "1",
-    "user-1": "1*****1",
-    "password-1": "1*****1",
-    "appid-1": "1*****1"
+    "accountSn": "1,2,3",
+    "user-1": "18771044790",
+    "password-1": "256115",
+    "appid-1": "1f7af72ad6912d306b5053abf90c7ebb0727b012a8c82ef9b8aeaeee82cd892324c86f7130f4362bae6798dce4fbb2137f226530f34d206c876a1a9f33bf77c5"
+    "user-2": "13054412080",
+    "password-2": "256115",
+    "appid-2": "1f7af72ad6912d306b5053abf90c7ebb0727b012a8c82ef9b8aeaeee82cd892324c86f7130f4362bae6798dce4fbb2137f226530f34d206c876a1a9f33bf77c5"
+    "user-3": "18569274977",
+    "password-3": "256115",
+    "appid-3": "1f7af72ad6912d306b5053abf90c7ebb0727b012a8c82ef9b8aeaeee82cd892324c86f7130f4362bae6798dce4fbb2137f226530f34d206c876a1a9f33bf77c5"
 }
